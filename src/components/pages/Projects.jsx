@@ -53,7 +53,7 @@ const Projects = () => {
         <h3 class="project_name">SKY CAST</h3>
         </div>
         <div className="subtitle" data-swiper-parallax="-200">
-        <a href="https://rec-1104.github.io/SpaceInvaders/" target="_blank" class="anchor">Visit<TbPointerCheck /></a>
+        <a href="https://rec-1104.github.io/Weather-App-Sky-Cast/" target="_blank" class="anchor">Visit<TbPointerCheck /></a>
         </div>
         <div className="text" data-swiper-parallax="-100">
           <br /><br /><p>

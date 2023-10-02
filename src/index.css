@@ -225,7 +225,7 @@ font-family: 'VT323', monospace;
 }
 
 #flipX {
-  
+  font-family: monospace;
   animation: 1s anim-flipX ease infinite;
 }
 @keyframes anim-flipX {
