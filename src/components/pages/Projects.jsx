@@ -37,6 +37,19 @@ const Projects = () => {
       ></div>
       <SwiperSlide>
         <div className="title" data-swiper-parallax="-300">
+        <h3 class="project_name">ImagiCraft</h3>
+        </div>
+        <div className="subtitle" data-swiper-parallax="-200">
+        <a href="https://imagicraft11.vercel.app/" target="_blank" class="anchor" >Visit<TbPointerCheck /></a>
+        </div>
+        <div className="text" data-swiper-parallax="-100">
+          <br /><br /><p>
+            All in one WEB-APP for content creation using multiple AI platforms. 
+          </p>
+        </div>
+      </SwiperSlide>
+      <SwiperSlide>
+        <div className="title" data-swiper-parallax="-300">
         <h3 class="project_name">WEEBSTER</h3>
         </div>
         <div className="subtitle" data-swiper-parallax="-200">
